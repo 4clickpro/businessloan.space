@@ -14,6 +14,12 @@ businessloan.space helps business owners check their funding options fast, with 
 - Owners under $10,000 a month or under 4 months in business are not automatically out. Other options, such as equipment financing and startup funding, have different criteria.
 - Credit can affect the amount and terms offered. No approval, rate, or funding amount is promised.
 
+## Questions owners ask
+
+- Do I need perfect credit to get business funding? No. There is no minimum FICO to apply — most top options start at 660. Bad credit does not automatically block an application.
+- How fast can I check? The application starts in about 15 seconds. Same-day funding is possible for qualified businesses.
+- What do I need to qualify? Top working capital options: 4+ months in business and $10,000+ in monthly gross sales. Owners under $10,000 a month or under 4 months are not automatically out — equipment financing and startup funding have different criteria.
+
 ## Short video
 
 There is a short business-loan video for owners: a business owner checking funding options, with the message "Need capital to grow? Check if you qualify in minutes. No minimum FICO to apply. Most top options start at 660. businessloan.space". The video file is business-loan-video.mp4 in this repository.
